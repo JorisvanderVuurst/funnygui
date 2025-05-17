@@ -1,7 +1,8 @@
+[![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 # 🛡️ cerlux & findsurfy GUI
 
 ![screenshot](https://cdn.discordapp.com/attachments/1371456554800254998/1373447401414594590/image.png?ex=682a7211&is=68292091&hm=3688aa7d56180ba490689e47e0157b73b64839e216b453cdd293dfa8ed89d3f8&)
-[![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+
 ---
 
 **For educational and authorized use only.  
