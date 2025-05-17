@@ -39,28 +39,30 @@ No command line headaches. Just click and hack (ethically).
 ## 🚀 How to Use
 
 1. **Download the script**  
-   Clone or download this repo.
+   ```
+   git clone https://github.com/JorisvanderVuurst/funnygui.git
+   ```
 
-2. **Install requirements**  
+3. **Install requirements**  
    ```
    pip install -r requirements.txt
    ```
 
-3. **Run it**  
+4. **Run it**  
    ```
    python "cerluxandfindsurfygui.py"
    ```
 
-4. **Click around**  
+5. **Click around**  
    - Use the menu on the left to pick a tool.
    - Fill in the boxes.
    - Hit the button.
    - See results in the big box.
 
-5. **Need help?**  
+6. **Need help?**  
    - Click the “Tool-by-Tool Guide” button in the menu for a quick how-to on every tool.
 
-6. **Exit**  
+7. **Exit**  
    - Click the Exit button or close the window.
 
 ---
