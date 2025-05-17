@@ -1,4 +1,8 @@
-[![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+![Python 3.x](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?logo=opera)
+![Tool Status](https://img.shields.io/badge/Status-Educational%20Tool-red?style=flat&logo=hackaday)
+![Built with Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?logo=tinder&logoColor=white)
 #
 
 ![screenshot](https://cdn.discordapp.com/attachments/1371456554800254998/1373447401414594590/image.png?ex=682a7211&is=68292091&hm=3688aa7d56180ba490689e47e0157b73b64839e216b453cdd293dfa8ed89d3f8&)
