@@ -62,9 +62,6 @@ No command line headaches. Just click and hack (ethically).
 6. **Need help?**  
    - Click the “Tool-by-Tool Guide” button in the menu for a quick how-to on every tool.
 
-7. **Exit**  
-   - Click the Exit button or close the window.
-
 ---
 
 ## 📸 Screenshots
