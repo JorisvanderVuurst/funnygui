@@ -43,12 +43,12 @@ No command line headaches. Just click and hack (ethically).
 
 2. **Install requirements**  
    ```
-   pip install requests dnspython
+   pip install -r requirements.txt
    ```
 
 3. **Run it**  
    ```
-   python "idk what the fuck this is.py"
+   python "cerluxandfindsurfygui.py"
    ```
 
 4. **Click around**  
