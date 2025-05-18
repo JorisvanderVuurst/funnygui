@@ -16,9 +16,7 @@ Don’t use this on systems you don’t own or have permission to test.**
 
 ## ⚡ What is this?
 
-A modern hacking toolkit with a slick GUI.  
-Scan ports, find subdomains, grab banners, fuzz directories, hash stuff, and more.  
-No command line headaches. Just click and hack (ethically).
+A randomly made hacking tool in windows
 
 ---
 
