@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://en.wikipedia.org/wiki/MIT_License)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?logo=opera)
 ![Tool Status](https://img.shields.io/badge/Status-Educational%20Tool-red?style=flat&logo=hackaday)
-![Built with Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?logo=tinder&logoColor=white)
+[![Built with Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?logo=tinder&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
 #
 
 ![screenshot](https://cdn.discordapp.com/attachments/1371456554800254998/1373447401414594590/image.png?ex=682a7211&is=68292091&hm=3688aa7d56180ba490689e47e0157b73b64839e216b453cdd293dfa8ed89d3f8&)
