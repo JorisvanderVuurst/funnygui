@@ -1,5 +1,5 @@
 ![Python 3.x](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]([https://github.com/licenses/MIT](https://en.wikipedia.org/wiki/MIT_License))
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?logo=opera)
 ![Tool Status](https://img.shields.io/badge/Status-Educational%20Tool-red?style=flat&logo=hackaday)
 ![Built with Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?logo=tinder&logoColor=white)
