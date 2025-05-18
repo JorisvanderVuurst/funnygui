@@ -46,6 +46,11 @@ A randomly made hacking tool in windows
    git clone https://github.com/JorisvanderVuurst/funnygui.git
    ```
 
+2. **Cd into funny gui**
+   ```
+   cd funnygui
+   ```
+   
 3. **Install requirements**  
    ```
    pip install -r requirements.txt
